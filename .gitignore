@@ -1,0 +1,14 @@
+# Build files
+build/
+cmake-build-*/
+
+# Generated output
+*.csv
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.log
+*.tmp
